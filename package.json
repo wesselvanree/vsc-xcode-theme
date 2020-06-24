@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Xcode Dark",
+        "label": "macOS Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Xcode Dark-color-theme.json"
+        "path": "./themes/macOS Dark-color-theme.json"
       }
     ]
   }
