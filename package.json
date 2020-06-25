@@ -1,6 +1,6 @@
 {
-  "name": "macos-theme-dark",
-  "displayName": "macos-theme-dark",
+  "name": "xcode-theme-dark",
+  "displayName": "xcode-theme-dark",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "macOS Dark",
+        "label": "Xcode Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/macOS Dark-color-theme.json"
+        "path": "./themes/Xcode Dark-color-theme.json"
       }
     ]
   }
