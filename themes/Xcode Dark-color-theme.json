@@ -302,10 +302,10 @@
       }
     },
     {
-      "name": "Inserted",
-      "scope": ["markup.inserted"],
+      "name": "Inserted, inline Math",
+      "scope": ["markup.inserted", "markup.inline.raw"],
       "settings": {
-        "foreground": "#C3E88D"
+        "foreground": "#dfdfe0c0"
       }
     },
     {
@@ -573,7 +573,26 @@
         "markup.inline.raw.string.markdown"
       ],
       "settings": {
-        "foreground": "#DFDFE090"
+        "foreground": "#dfdfe0c0"
+      }
+    },
+    {
+      "name": "Markdown - Punctuation, Math dollar sign, language",
+      "scope": [
+        "punctuation.definition.markdown",
+        "punctuation.definition.math.display.markdown",
+        "inline-dollars",
+        "fenced_code.block.language.markdown"
+      ],
+      "settings": {
+        "foreground": "#dfdfe060"
+      }
+    },
+    {
+      "name": "Markup - Inline dollar raw",
+      "scope": ["markup.inline.raw"],
+      "settings": {
+        "foreground": "#dfdfe0c0"
       }
     },
     {
@@ -596,6 +615,17 @@
       "scope": ["markup.table"],
       "settings": {
         "foreground": "#DFDFE0"
+      }
+    },
+    {
+      "name": "Katex Function",
+      "scope": [
+        "support.function.katex",
+        "punctuation.definition.function.katex",
+        "keyword.control.table.cell.katex"
+      ],
+      "settings": {
+        "foreground": "#4eb0cc"
       }
     }
   ],
