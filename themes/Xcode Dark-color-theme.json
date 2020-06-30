@@ -1,8 +1,8 @@
+// darker: #1D1F21
+// dark: #252629
+// editor: #292A30
 {
   "name": "Xcode Dark",
-  // darker: #1D1F21
-  // dark: #252629
-  // editor: #292A30
   "type": "dark",
   "tokenColors": [
     {
@@ -295,9 +295,12 @@
     },
     {
       "name": "CSS ID's",
-      "scope": ["source.sass keyword.control"],
+      "scope": [
+        "source.sass keyword.control",
+        "entity.other.attribute-name.id"
+      ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#ff7ab2"
       }
     },
     {
