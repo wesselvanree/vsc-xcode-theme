@@ -10,4 +10,4 @@ To install this theme, download this project and copy it to your `extensions` fo
 This folder is usually located at `user > .vscode > extensions`.
 
 Then, you need to restart Visual Studio Code. 
-You can now use this color theme by selecting te 'Xcode Dark' color theme.
+Now you can use this color theme by selecting te 'Xcode Dark' option in the command palette.
