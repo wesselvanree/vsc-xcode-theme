@@ -2,7 +2,7 @@
 
 A Dark color theme for Visual Studio Code.
 
-![Screenshot javascipt](assets/screen.png?raw=true "Optional Title")
+![Screenshot javascipt](https://raw.githubusercontent.com/wesselvanree/vsc-xcode-theme/master/assets/screen.png "Xcode Dark")
 The used font in the screenshot is "SF Mono". 
 
 ## Installation
